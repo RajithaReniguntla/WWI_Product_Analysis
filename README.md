@@ -29,7 +29,7 @@ I've broken down the analysis into two critical point of view: products and supp
   A small group of suppliers provided the majority of unique stock items, highlighting **supply chain concentration risks**.
 
 - **SKU-Level/Product Category Level Planning Needed**:  
-  Many SKUs have a hike and a dip in growth, suggesting a seasonal trend - understanding seasonal fluctuations can help plan inventory and maintain stock levels (or adjust re-order points and target stock levels) to better align with the changing customer demand. 
+  Many SKUs have a hike and a dip in growth, suggesting a seasonal trend - understanding **seasonal fluctuations** can help plan inventory and maintain stock levels (or adjust re-order points and target stock levels) to better align with the changing customer demand. 
 
 - **Strategic Procurement Opportunities**:  
   Suppliers with steady year-on-year growth in order quantities can be prioritized for **long-term contracts** to stabilize supply lines. Strengthen partnership with suppliers of high-margin products.
